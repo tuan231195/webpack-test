@@ -1,0 +1,1313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9720486-4f4d-4544-9c63-b8b952e15559" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/index.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/index.js" afterPath="$PROJECT_DIR$/src/actions/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/artists/ArtistCreate.js" afterPath="$PROJECT_DIR$/src/components/artists/ArtistCreate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/artists/ArtistDetail.js" afterPath="$PROJECT_DIR$/src/components/artists/ArtistDetail.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/artists/ArtistEdit.js" afterPath="$PROJECT_DIR$/src/components/artists/ArtistEdit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/artists/ArtistFilter.js" afterPath="$PROJECT_DIR$/src/components/artists/ArtistFilter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/artists/ArtistIndex.js" afterPath="$PROJECT_DIR$/src/components/artists/ArtistIndex.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/artists/ArtistMain.js" afterPath="$PROJECT_DIR$/src/components/artists/ArtistMain.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/artists/Paginator.js" afterPath="$PROJECT_DIR$/src/components/artists/Paginator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/ArtistsReducer.js" afterPath="$PROJECT_DIR$/src/reducers/ArtistsReducer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/ErrorReducer.js" afterPath="$PROJECT_DIR$/src/reducers/ErrorReducer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/FilterCriteriaReducer.js" afterPath="$PROJECT_DIR$/src/reducers/FilterCriteriaReducer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/SelectionReducer.js" afterPath="$PROJECT_DIR$/src/reducers/SelectionReducer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/index.js" afterPath="$PROJECT_DIR$/src/reducers/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/router.js" afterPath="$PROJECT_DIR$/src/router.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.config.js" afterPath="$PROJECT_DIR$/webpack.config.js" />
+    </list>
+    <ignored path="WebpackProject.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="WebpackProject" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="61" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../ACIS2016-Project/demo/Source" value="5903463624000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.babelrc" />
+        <option value="$PROJECT_DIR$/src/actions/index.js" />
+        <option value="$PROJECT_DIR$/src/router.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/reducers/SelectionReducer.js" />
+        <option value="$PROJECT_DIR$/src/reducers/index.js" />
+        <option value="$PROJECT_DIR$/src/reducers/FilterCriteriaReducer.js" />
+        <option value="$PROJECT_DIR$/src/reducers/ErrorReducer.js" />
+        <option value="$PROJECT_DIR$/src/reducers/ArtistsReducer.js" />
+        <option value="$PROJECT_DIR$/src/components/artists/ArtistIndex.js" />
+        <option value="$PROJECT_DIR$/src/components/artists/ArtistMain.js" />
+        <option value="$PROJECT_DIR$/src/components/artists/Paginator.js" />
+        <option value="$PROJECT_DIR$/src/components/artists/ArtistCreate.js" />
+        <option value="$PROJECT_DIR$/src/components/artists/ArtistDetail.js" />
+        <option value="$PROJECT_DIR$/src/components/artists/ArtistEdit.js" />
+        <option value="$PROJECT_DIR$/src/components/artists/ArtistFilter.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/dist/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="418" />
+    <option name="y" value="23" />
+    <option name="width" value="1015" />
+    <option name="height" value="725" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebpackProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebpackProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebpackProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebpackProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="WebpackProject" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebpackProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebpackProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebpackProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="WebpackProject" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebpackProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebpackProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebpackProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebpackProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebpackProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9720486-4f4d-4544-9c63-b8b952e15559" name="Default" comment="" />
+      <created>1490613594014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1490613594014</updated>
+      <workItem from="1490613596448" duration="5581000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5581000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="418" y="23" width="1015" height="725" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="simpleUML" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UML Diagrams" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5007899" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299075" sideWeight="0.5" order="-1" side_tool="false" content_ui="combo" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Graphical Navigator" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Fabric" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/database/queries/db.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <folding>
+            <marker date="1490613936000" expanded="true" signature="0:58" ph="{...}" />
+            <marker date="1490613936000" expanded="true" signature="15:56" ph="[...]" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/queries/CreateArtist.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <marker date="1490613569000" expanded="true" signature="101:325" ph="/** Create a single artist in the artist collection. ...*/" />
+            <marker date="1490613569000" expanded="true" signature="360:645" ph="{...}" />
+            <marker date="1490613569000" expanded="true" signature="413:547" ph="{...}" />
+            <marker date="1490613569000" expanded="true" signature="615:636" ph="{...}" />
+            <marker date="1490613569000" expanded="true" signature="615:641" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <marker date="1490614369000" expanded="true" signature="7:376" ph="..." />
+            <marker date="1490614369000" expanded="true" signature="399:725" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="413:719" ph="&lt;xml/&gt;" />
+            <marker date="1490614369000" expanded="true" signature="447:707" ph="&lt;xml/&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/FilterCriteriaReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1490614369000" expanded="true" signature="7:99" ph="..." />
+            <marker date="1490614369000" expanded="true" signature="123:153" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="206:437" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="230:435" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/ErrorReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1490614369000" expanded="true" signature="7:63" ph="..." />
+            <marker date="1490614369000" expanded="true" signature="104:271" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="128:269" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/SelectionReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <marker date="1490614369000" expanded="true" signature="7:110" ph="..." />
+            <marker date="1490614369000" expanded="true" signature="151:377" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="175:375" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="73" column="10" selection-start-line="73" selection-start-column="10" selection-end-line="73" selection-end-column="10" />
+          <folding>
+            <marker date="1490614369000" expanded="true" signature="7:842" ph="..." />
+            <marker date="1490614369000" expanded="true" signature="877:912" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="947:981" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="1018:1067" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="1106:1157" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="2300:2351" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="2371:2452" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="2604:2685" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="2815:2896" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="2901:2919" ph="//..." />
+            <marker date="1490614369000" expanded="true" signature="2959:3086" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="3029:3068" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="3058:3063" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="3135:3270" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="3213:3252" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="3242:3247" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="3329:3505" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="3448:3487" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="3477:3482" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="3545:3671" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="3614:3653" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="3643:3648" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="3713:3841" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="3784:3823" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="3813:3818" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="3881:4007" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="3950:3989" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="3979:3984" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="4049:4177" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="4120:4159" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="4149:4154" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="4214:4337" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="4280:4319" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="4309:4314" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="4377:4503" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="4446:4485" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="4475:4480" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="4506:4519" ph="//..." />
+            <marker date="1490614369000" expanded="true" signature="4567:4752" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/ArtistsReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1490614369000" expanded="true" signature="7:104" ph="..." />
+            <marker date="1490614369000" expanded="true" signature="128:175" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="228:554" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="252:552" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="307:371" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/artists/ArtistMain.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <folding>
+            <marker date="1490614742000" expanded="true" signature="7:125" ph="..." />
+            <marker date="1490614742000" expanded="true" signature="162:354" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="174:352" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="190:344" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="216:273" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="278:334" ph="&lt;xml/&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/artists/Paginator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
+          <folding>
+            <marker date="1490614742000" expanded="true" signature="7:122" ph="..." />
+            <marker date="1490614742000" expanded="true" signature="158:1285" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="168:338" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="262:278" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="351:540" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="464:480" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="550:741" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="566:733" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="629:724" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="752:1034" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="875:1026" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="918:1017" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1046:1283" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="1062:1275" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1097:1228" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1334:1421" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/artists/ArtistCreate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <marker date="1490614742000" expanded="true" signature="7:169" ph="..." />
+            <marker date="1490614742000" expanded="true" signature="208:1040" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="234:265" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="288:330" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="342:1038" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="398:1030" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="459:562" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="567:668" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="673:791" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="796:901" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="906:975" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1077:1123" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="1087:1120" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="1185:1204" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/artists/ArtistDetail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding>
+            <marker date="1490614742000" expanded="true" signature="7:159" ph="..." />
+            <marker date="1490614742000" expanded="true" signature="198:2321" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="222:273" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="313:422" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="367:419" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="448:480" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="499:552" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="570:1167" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="643:659" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="690:1162" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="708:1152" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="760:924" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="826:912" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="930:1141" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="967:1046" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1053:1129" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1179:2319" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="1207:1269" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="1387:2311" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1397:1572" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1577:2301" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1624:1801" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1670:1745" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1807:1912" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1918:2012" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="2018:2118" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="2124:2220" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="2226:2291" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="2364:2403" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/artists/ArtistEdit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding>
+            <marker date="1490614742000" expanded="true" signature="7:122" ph="..." />
+            <marker date="1490614742000" expanded="true" signature="159:1763" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="181:221" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="245:296" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="337:468" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="353:465" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="502:611" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="556:608" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="637:668" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="687:804" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="816:1761" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="832:1753" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="879:1056" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="914:1045" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1061:1235" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1096:1224" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1240:1439" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1275:1428" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1444:1624" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1479:1613" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1629:1698" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1800:1878" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="1810:1875" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/artists/ArtistFilter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1710">
+          <caret line="114" column="20" selection-start-line="114" selection-start-column="20" selection-end-line="114" selection-end-column="20" />
+          <folding>
+            <marker date="1490614742000" expanded="true" signature="7:229" ph="..." />
+            <marker date="1490614742000" expanded="true" signature="251:287" ph="[...]" />
+            <marker date="1490614742000" expanded="true" signature="327:2255" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="351:573" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="379:491" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="497:570" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="527:564" ph="{&quot;name&quot;: ''...}" />
+            <marker date="1490614742000" expanded="true" signature="596:664" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="691:787" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="805:1029" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="856:1021" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="901:1011" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1041:2253" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="1097:2245" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1147:2235" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1194:2224" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1261:1329" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1366:1570" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1403:1557" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1578:1811" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1615:1798" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1819:2113" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1896:2100" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="2121:2211" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="2292:2479" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="2338:2476" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="2541:2621" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/artists/ArtistIndex.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="90" column="16" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="16" />
+          <folding>
+            <marker date="1490614742000" expanded="true" signature="7:220" ph="..." />
+            <marker date="1490614742000" expanded="true" signature="258:2157" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="275:409" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="322:362" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="368:406" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="431:1224" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="549:1216" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="588:785" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="599:746" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="839:1084" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="855:940" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="946:1073" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1089:1207" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1245:1317" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="1284:1314" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="1344:1529" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="1383:1399" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="1415:1521" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1547:1908" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="1584:1905" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="1602:1895" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1613:1743" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1749:1884" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1920:2155" ph="{...}" />
+            <marker date="1490614742000" expanded="true" signature="1936:2147" ph="&lt;xml/&gt;" />
+            <marker date="1490614742000" expanded="true" signature="1972:2107" ph="&lt;xml/&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <marker date="1490614369000" expanded="true" signature="7:357" ph="..." />
+            <marker date="1490614369000" expanded="true" signature="377:521" ph="{...}" />
+            <marker date="1490614369000" expanded="true" signature="463:515" ph="&lt;xml/&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1800">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/constants.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1490613569000" expanded="true" signature="22:445" ph="[...]" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <marker date="1490614369000" expanded="true" signature="7:295" ph="..." />
+            <marker date="1490614369000" expanded="true" signature="328:469" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1483418268000" expanded="true" signature="21:368" ph="..." />
+            <marker date="1483418268000" expanded="true" signature="30:315" ph="..." />
+            <marker date="1483418268000" expanded="true" signature="324:360" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/bundle.deb3019079265a84c719.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/manifest.d1afc8aae9e97b9bdf58.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <marker date="1490622310000" expanded="true" signature="281:337" ph="{...}" />
+            <marker date="1490622310000" expanded="true" signature="343:472" ph="{...}" />
+            <marker date="1490622310000" expanded="true" signature="407:468" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <marker date="1490622638000" expanded="true" signature="139:260" ph="[...]" />
+            <marker date="1490622638000" expanded="true" signature="280:881" ph="{...}" />
+            <marker date="1490622638000" expanded="true" signature="290:344" ph="{...}" />
+            <marker date="1490622638000" expanded="true" signature="355:433" ph="{...}" />
+            <marker date="1490622638000" expanded="true" signature="444:618" ph="{...}" />
+            <marker date="1490622638000" expanded="true" signature="455:615" ph="[...]" />
+            <marker date="1490622638000" expanded="true" signature="460:538" ph="{...}" />
+            <marker date="1490622638000" expanded="true" signature="543:611" ph="{...}" />
+            <marker date="1490622638000" expanded="true" signature="630:879" ph="[...]" />
+            <marker date="1490622638000" expanded="true" signature="659:728" ph="{...}" />
+            <marker date="1490622638000" expanded="true" signature="773:813" ph="{...}" />
+            <marker date="1490622638000" expanded="true" signature="840:875" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="61" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
